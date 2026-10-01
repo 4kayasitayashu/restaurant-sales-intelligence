@@ -1,0 +1,29 @@
+RESTAURANT FUTURE DEMAND FORECAST
+========================================
+
+Forecast period: 2025-10-01 to 2025-10-14
+
+Outlet-level forecast summary:
+
+ Outlet  TotalForecastOrders  AverageDailyOrders  MaximumDailyOrders  MinimumDailyOrders  HighDemandDays
+SHOP001                 1420          101.428571                 107                  94               0
+SHOP002                  479           34.214286                  40                  30               1
+SHOP003                  842           60.142857                  65                  54               0
+
+Daily forecast:
+
+      Date  ForecastOrders
+2025-10-01             194
+2025-10-02             198
+2025-10-03             205
+2025-10-04             192
+2025-10-05             208
+2025-10-06             194
+2025-10-07             194
+2025-10-08             198
+2025-10-09             194
+2025-10-10             200
+2025-10-11             188
+2025-10-12             189
+2025-10-13             193
+2025-10-14             194

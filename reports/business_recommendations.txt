@@ -1,0 +1,51 @@
+RESTAURANT BUSINESS INTELLIGENCE REPORT
+======================================================================
+
+Generated from historical sales analytics and 14-day ML demand forecast.
+
+FORECAST OVERVIEW
+The 14-day forecast indicates approximately 2,741 total orders across all outlets.
+Expected average demand is approximately 195.8 orders per day across the network.
+
+OUTLET OPERATIONS
+SHOP001: approximately 101.4 orders/day, with a forecast range of 94–107 orders/day. Signal: Maintain strong operational capacity.
+SHOP002: approximately 34.2 orders/day, with a forecast range of 30–40 orders/day. Signal: Monitor demand and avoid overstaffing.
+SHOP003: approximately 60.1 orders/day, with a forecast range of 54–65 orders/day. Signal: Maintain normal operations.
+
+PEAK DEMAND DATES
+2025-10-05: 208 forecast orders — Normal demand.
+2025-10-03: 205 forecast orders — Normal demand.
+2025-10-10: 200 forecast orders — Normal demand.
+2025-10-02: 198 forecast orders — Normal demand.
+2025-10-08: 198 forecast orders — Normal demand.
+
+LOWER DEMAND DATES
+2025-10-11: 188 forecast orders.
+2025-10-12: 189 forecast orders.
+2025-10-04: 192 forecast orders.
+2025-10-13: 193 forecast orders.
+2025-10-09: 194 forecast orders.
+
+PRODUCT SIGNALS
+Friendly Coffee (Coffee): 715 units sold historically.
+Friendly Coffee (Coffee): 708 units sold historically.
+Americano (Coffee): 706 units sold historically.
+BLACK (Menu Gedhe): 704 units sold historically.
+Lemons (Other): 702 units sold historically.
+
+CATEGORY SIGNALS
+Coffee: 35.98% of allocated category revenue — Major revenue contributor.
+Menu Gedhe: 26.08% of allocated category revenue — Major revenue contributor.
+Other: 16.45% of allocated category revenue — Important revenue contributor.
+Tea: 13.16% of allocated category revenue — Important revenue contributor.
+Snacks: 6.98% of allocated category revenue — Important revenue contributor.
+Add on: 1.35% of allocated category revenue — Smaller revenue contributor.
+
+OPERATIONAL GUIDANCE
+Use higher-demand forecast days to review staffing, ingredient preparation and operational capacity.
+Use lower-demand periods to avoid unnecessary over-preparation and excessive staffing.
+High-volume products should receive additional attention during preparation and inventory planning.
+Forecast values are model-generated estimates and should be reviewed against actual demand as new sales data becomes available.
+
+======================================================================
+END OF REPORT

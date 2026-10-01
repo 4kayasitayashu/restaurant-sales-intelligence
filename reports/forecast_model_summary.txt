@@ -1,0 +1,34 @@
+RESTAURANT DEMAND FORECASTING
+========================================
+
+Target:
+Daily Orders per Outlet
+
+Dataset:
+C:\Restaurant-Sales-Intelligence\data\processed\daily_demand_forecasting.csv
+
+Forecasting approach:
+Leakage-safe supervised machine learning
+
+Train/Test strategy:
+Chronological split
+
+Test period:
+2025-08-08 to 2025-09-30
+
+Model comparison:
+
+               Model       MAE      RMSE  WAPE_Percent  SMAPE_Percent
+HistGradientBoosting  6.447039  8.307379     10.305084      10.973187
+        RandomForest  6.716905  8.516883     10.736445      11.610073
+ WeeklyNaiveBaseline  8.234568 11.017943     13.162309      13.552801
+    LinearRegression 10.804273 13.060105     17.269781      18.033464
+
+Selected ML model:
+HistGradientBoosting
+
+Selected model metrics:
+MAE: 6.4470
+RMSE: 8.3074
+WAPE: 10.31%
+sMAPE: 10.97%

@@ -1,0 +1,54 @@
+RESTAURANT SALES INTELLIGENCE
+PRODUCT & CATEGORY ANALYSIS
+======================================================================
+
+DATASET SUMMARY
+Item records: 61,973
+Unique products sold: 94
+Categories: 6
+Outlets: 3
+
+TOP PRODUCTS BY UNITS SOLD
+- Friendly Coffee (Ice): 715 units
+- Friendly Coffee (Hot): 708 units
+- Americano (Hot Arabica): 706 units
+- BLACK (Houseblend): 704 units
+- Lemons (-): 702 units
+- Butterscotch (-): 701 units
+- Chocolate (Gedhe) (-): 700 units
+- Shakencano (-): 699 units
+- Not Tiramisu Latte (Gedhe) (-): 698 units
+- Upgrade Beans (Arabica) (-): 698 units
+
+TOP PRODUCTS BY ALLOCATED REVENUE
+- Chocolate (Gedhe) (-): 20,040,000.00
+- Not Tiramisu Latte (Gedhe) (-): 19,980,000.00
+- Green Thai Tea (Gedhe) (-): 19,980,000.00
+- Hazelnut Latte (Gedhe) (-): 19,980,000.00
+- WHITE (Houseblend): 19,770,000.00
+- Happy Moca (Hot): 19,680,000.00
+- WHITE (Arabica): 19,530,000.00
+- Happy Moca (Ice): 19,350,000.00
+- WHITE (-): 18,900,000.00
+- Apple Pie Latte (Gedhe) (-): 18,780,000.00
+
+CATEGORY PERFORMANCE
+- Coffee: 22,422 units, 473,259,000.00 allocated revenue, 35.98% revenue share
+- Menu Gedhe: 12,581 units, 343,030,000.00 allocated revenue, 26.08% revenue share
+- Other: 9,995 units, 216,337,000.00 allocated revenue, 16.45% revenue share
+- Tea: 8,494 units, 173,058,000.00 allocated revenue, 13.16% revenue share
+- Snacks: 5,832 units, 91,851,000.00 allocated revenue, 6.98% revenue share
+- Add on: 2,649 units, 17,741,000.00 allocated revenue, 1.35% revenue share
+
+PRODUCT CONCENTRATION
+Top 10 products account for 14.90% of allocated revenue.
+
+PRICE VS UNIT DEMAND
+Correlation between average catalog price and units sold: 0.0476
+This correlation describes the observed dataset relationship; it does not establish causation.
+
+REVENUE METHODOLOGY
+Transaction revenue is available at receipt level.
+Product-level revenue is therefore allocated using each item's catalog price share within the receipt.
+The item pipeline achieved 100% revenue coverage against transaction totals.
+Allocated product revenue should be interpreted as an analytical allocation, not a separately recorded POS line-item revenue field.

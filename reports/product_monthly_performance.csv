@@ -1,0 +1,847 @@
+Year,Month,MonthName,ProductId,ProductName,Variant,Category,UnitsSold,AllocatedRevenue
+2025,1,January,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,85,2430000.0
+2025,1,January,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,80,2370000.0
+2025,1,January,69,Matcha Latte (Gedhe),-,Menu Gedhe,81,2370000.0
+2025,1,January,57,Happy Moca,Ice,Coffee,71,2100000.0
+2025,1,January,8,Apple Pie Latte,-,Coffee,86,1992000.0
+2025,1,January,28,Candy Latte (Gedhe),-,Menu Gedhe,72,1980000.0
+2025,1,January,71,Matchapresso (Gedhe),-,Menu Gedhe,66,1980000.0
+2025,1,January,54,Green Thai Tea (Gedhe),-,Menu Gedhe,67,1950000.0
+2025,1,January,89,Vanilla Latte (Gedhe),-,Menu Gedhe,74,1950000.0
+2025,1,January,21,Biru (Gedhe),-,Menu Gedhe,67,1920000.0
+2025,1,January,94,Creamy Chocolate Cake,-,Other,66,1920000.0
+2025,1,January,34,Chocolate,Hot,Other,76,1875000.0
+2025,1,January,37,Chocolate (Gedhe),-,Menu Gedhe,66,1860000.0
+2025,1,January,92,WHITE,Arabica,Menu Gedhe,66,1860000.0
+2025,1,January,35,Chocolate,Ice,Other,77,1850000.0
+2025,1,January,58,Hazelnut Latte,-,Coffee,81,1840000.0
+2025,1,January,91,WHITE,Houseblend,Menu Gedhe,62,1770000.0
+2025,1,January,56,Happy Moca,Hot,Coffee,59,1740000.0
+2025,1,January,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,64,1710000.0
+2025,1,January,86,Thai Tea (Gedhe),-,Menu Gedhe,58,1710000.0
+2025,1,January,93,Croffle,-,Snacks,64,1708000.0
+2025,1,January,65,Lemons,-,Other,84,1680000.0
+2025,1,January,49,Friendly Coffee,Hot,Coffee,78,1679000.0
+2025,1,January,50,Friendly Coffee,Ice,Coffee,74,1656000.0
+2025,1,January,80,Sitrus Cafe,-,Coffee,71,1656000.0
+2025,1,January,36,Cold Brew,-,Coffee,68,1632000.0
+2025,1,January,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,57,1620000.0
+2025,1,January,90,WHITE,-,Menu Gedhe,57,1620000.0
+2025,1,January,67,Matcha Latte,Ice,Other,70,1584000.0
+2025,1,January,66,Matcha Espresso,-,Coffee,67,1575000.0
+2025,1,January,25,Butterscotch,-,Coffee,70,1541000.0
+2025,1,January,82,Summer,-,Tea,68,1541000.0
+2025,1,January,51,Friendly Coffee (Gedhe),-,Menu Gedhe,53,1530000.0
+2025,1,January,72,Moody,-,Tea,67,1518000.0
+2025,1,January,19,Berry Cake,-,Other,68,1512000.0
+2025,1,January,20,Biru,-,Coffee,66,1512000.0
+2025,1,January,38,Creamy Klepon,-,Other,68,1512000.0
+2025,1,January,5,Americano,Ice Houesblend,Coffee,75,1500000.0
+2025,1,January,70,Matchapresso,-,Coffee,62,1500000.0
+2025,1,January,96,Pisang Coklat,-,Snacks,69,1496000.0
+2025,1,January,15,Basic Latte,Hot Arabica,Coffee,68,1472000.0
+2025,1,January,27,Candy Latte,-,Coffee,67,1472000.0
+2025,1,January,78,Red Liquid,-,Other,66,1472000.0
+2025,1,January,52,Green Apple,-,Tea,70,1470000.0
+2025,1,January,63,Lemon Tea,Hot,Tea,70,1470000.0
+2025,1,January,7,Americano,Ice Arabica,Coffee,72,1440000.0
+2025,1,January,29,Cappuccino,Hot Houseblend,Coffee,69,1430000.0
+2025,1,January,31,Cappuccino,Ice Houseblend,Coffee,69,1430000.0
+2025,1,January,79,Shakencano,-,Coffee,68,1428000.0
+2025,1,January,61,Jasmine,Hot,Tea,67,1407000.0
+2025,1,January,47,Friendly Coffee,Hot double shot,Coffee,65,1403000.0
+2025,1,January,83,Sunset,-,Other,62,1403000.0
+2025,1,January,6,Americano,Hot Arabica,Coffee,70,1400000.0
+2025,1,January,4,Americano,Hot Houseblend,Coffee,68,1360000.0
+2025,1,January,18,Basic Latte,Ice Arabica,Coffee,64,1357000.0
+2025,1,January,46,Forbidden Berry,-,Other,61,1344000.0
+2025,1,January,68,Matcha Latte,Hot,Other,57,1344000.0
+2025,1,January,77,Red Apple,-,Tea,64,1344000.0
+2025,1,January,23,Black Rice,Hot,Other,60,1334000.0
+2025,1,January,30,Cappuccino,Hot Arabica,Coffee,64,1320000.0
+2025,1,January,62,Jus Semangka,-,Other,63,1320000.0
+2025,1,January,60,Jasmine,Ice,Tea,62,1302000.0
+2025,1,January,48,Friendly Coffee,Ice double shot,Coffee,60,1288000.0
+2025,1,January,85,Thai Tea,-,Tea,61,1281000.0
+2025,1,January,11,BLACK,Houseblend,Menu Gedhe,64,1280000.0
+2025,1,January,88,Vanilla Latte,-,Coffee,58,1265000.0
+2025,1,January,12,BLACK,Arabica,Menu Gedhe,63,1260000.0
+2025,1,January,64,Lemon Tea,Ice,Tea,59,1239000.0
+2025,1,January,95,Waffle,-,Snacks,53,1200000.0
+2025,1,January,16,Basic Latte,Ice Houseblend,Coffee,54,1196000.0
+2025,1,January,53,Green Thai Tea,-,Tea,56,1176000.0
+2025,1,January,17,Basic Latte,Hot Houseblend,Coffee,56,1173000.0
+2025,1,January,81,Soft Tea,-,Tea,64,1152000.0
+2025,1,January,22,Black Rice,Ice,Other,53,1150000.0
+2025,1,January,74,Not Tiramisu Latte,-,Coffee,51,1128000.0
+2025,1,January,32,Cappuccino,Ice Arabica,Coffee,54,1122000.0
+2025,1,January,33,Chamomile,-,Tea,56,1120000.0
+2025,1,January,10,BLACK,-,Menu Gedhe,55,1100000.0
+2025,1,January,42,Espresso Houseblend,On The Rock,Coffee,77,924000.0
+2025,1,January,76,Nutella Meses,-,Snacks,76,912000.0
+2025,1,January,24,Burnt Sugar,-,Snacks,65,780000.0
+2025,1,January,41,Espresso Arabica,Basic Espresso,Coffee,65,780000.0
+2025,1,January,55,Gula Gula,-,Snacks,65,780000.0
+2025,1,January,14,Banana Bread,Original,Snacks,64,768000.0
+2025,1,January,73,Nostaltea,-,Tea,50,750000.0
+2025,1,January,13,Banana Bread,Chocolate,Snacks,60,720000.0
+2025,1,January,39,Donat Polos,-,Snacks,72,720000.0
+2025,1,January,43,Espresso Houseblend,Basic Espresso,Coffee,58,696000.0
+2025,1,January,40,Espresso Arabica,On The Rock,Coffee,55,660000.0
+2025,1,January,84,Susu Oat,-,Add on,63,630000.0
+2025,1,January,45,Extra Shot,Arabica,Add on,63,441000.0
+2025,1,January,44,Extra Shot,Houseblend,Add on,67,402000.0
+2025,1,January,3,Air Mineral,-,Other,77,385000.0
+2025,1,January,87,Upgrade Beans (Arabica),-,Add on,71,284000.0
+2025,2,February,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,94,2760000.0
+2025,2,February,37,Chocolate (Gedhe),-,Menu Gedhe,93,2670000.0
+2025,2,February,91,WHITE,Houseblend,Menu Gedhe,82,2430000.0
+2025,2,February,92,WHITE,Arabica,Menu Gedhe,86,2430000.0
+2025,2,February,54,Green Thai Tea (Gedhe),-,Menu Gedhe,78,2310000.0
+2025,2,February,22,Black Rice,Ice,Other,102,2231000.0
+2025,2,February,51,Friendly Coffee (Gedhe),-,Menu Gedhe,77,2220000.0
+2025,2,February,57,Happy Moca,Ice,Coffee,76,2220000.0
+2025,2,February,86,Thai Tea (Gedhe),-,Menu Gedhe,78,2220000.0
+2025,2,February,68,Matcha Latte,Hot,Other,93,2112000.0
+2025,2,February,70,Matchapresso,-,Coffee,92,2100000.0
+2025,2,February,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,74,2100000.0
+2025,2,February,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,69,2040000.0
+2025,2,February,71,Matchapresso (Gedhe),-,Menu Gedhe,71,2010000.0
+2025,2,February,90,WHITE,-,Menu Gedhe,69,2010000.0
+2025,2,February,28,Candy Latte (Gedhe),-,Menu Gedhe,72,1980000.0
+2025,2,February,89,Vanilla Latte (Gedhe),-,Menu Gedhe,68,1980000.0
+2025,2,February,34,Chocolate,Hot,Other,81,1975000.0
+2025,2,February,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,67,1950000.0
+2025,2,February,83,Sunset,-,Other,87,1909000.0
+2025,2,February,20,Biru,-,Coffee,85,1896000.0
+2025,2,February,80,Sitrus Cafe,-,Coffee,79,1896000.0
+2025,2,February,56,Happy Moca,Hot,Coffee,65,1890000.0
+2025,2,February,38,Creamy Klepon,-,Other,83,1872000.0
+2025,2,February,67,Matcha Latte,Ice,Other,81,1872000.0
+2025,2,February,48,Friendly Coffee,Ice double shot,Coffee,82,1863000.0
+2025,2,February,52,Green Apple,-,Tea,88,1848000.0
+2025,2,February,18,Basic Latte,Ice Arabica,Coffee,87,1840000.0
+2025,2,February,49,Friendly Coffee,Hot,Coffee,83,1840000.0
+2025,2,February,82,Summer,-,Tea,81,1840000.0
+2025,2,February,61,Jasmine,Hot,Tea,87,1827000.0
+2025,2,February,21,Biru (Gedhe),-,Menu Gedhe,64,1800000.0
+2025,2,February,96,Pisang Coklat,-,Snacks,85,1782000.0
+2025,2,February,94,Creamy Chocolate Cake,-,Other,64,1770000.0
+2025,2,February,11,BLACK,Houseblend,Menu Gedhe,88,1760000.0
+2025,2,February,74,Not Tiramisu Latte,-,Coffee,77,1752000.0
+2025,2,February,23,Black Rice,Hot,Other,78,1748000.0
+2025,2,February,46,Forbidden Berry,-,Other,74,1728000.0
+2025,2,February,77,Red Apple,-,Tea,82,1722000.0
+2025,2,February,27,Candy Latte,-,Coffee,75,1702000.0
+2025,2,February,5,Americano,Ice Houesblend,Coffee,83,1660000.0
+2025,2,February,19,Berry Cake,-,Other,72,1656000.0
+2025,2,February,63,Lemon Tea,Hot,Tea,78,1638000.0
+2025,2,February,36,Cold Brew,-,Coffee,71,1632000.0
+2025,2,February,12,BLACK,Arabica,Menu Gedhe,81,1620000.0
+2025,2,February,65,Lemons,-,Other,81,1620000.0
+2025,2,February,53,Green Thai Tea,-,Tea,76,1596000.0
+2025,2,February,30,Cappuccino,Hot Arabica,Coffee,76,1584000.0
+2025,2,February,62,Jus Semangka,-,Other,76,1584000.0
+2025,2,February,93,Croffle,-,Snacks,59,1568000.0
+2025,2,February,72,Moody,-,Tea,70,1564000.0
+2025,2,February,88,Vanilla Latte,-,Coffee,70,1564000.0
+2025,2,February,8,Apple Pie Latte,-,Coffee,72,1536000.0
+2025,2,February,69,Matcha Latte (Gedhe),-,Menu Gedhe,55,1530000.0
+2025,2,February,95,Waffle,-,Snacks,64,1525000.0
+2025,2,February,16,Basic Latte,Ice Houseblend,Coffee,68,1518000.0
+2025,2,February,25,Butterscotch,-,Coffee,72,1518000.0
+2025,2,February,31,Cappuccino,Ice Houseblend,Coffee,72,1518000.0
+2025,2,February,47,Friendly Coffee,Hot double shot,Coffee,69,1518000.0
+2025,2,February,64,Lemon Tea,Ice,Tea,72,1512000.0
+2025,2,February,35,Chocolate,Ice,Other,61,1500000.0
+2025,2,February,50,Friendly Coffee,Ice,Coffee,68,1495000.0
+2025,2,February,6,Americano,Hot Arabica,Coffee,74,1480000.0
+2025,2,February,10,BLACK,-,Menu Gedhe,73,1460000.0
+2025,2,February,32,Cappuccino,Ice Arabica,Coffee,71,1452000.0
+2025,2,February,66,Matcha Espresso,-,Coffee,60,1450000.0
+2025,2,February,78,Red Liquid,-,Other,66,1449000.0
+2025,2,February,4,Americano,Hot Houseblend,Coffee,70,1400000.0
+2025,2,February,60,Jasmine,Ice,Tea,66,1386000.0
+2025,2,February,33,Chamomile,-,Tea,69,1380000.0
+2025,2,February,85,Thai Tea,-,Tea,65,1365000.0
+2025,2,February,79,Shakencano,-,Coffee,64,1344000.0
+2025,2,February,7,Americano,Ice Arabica,Coffee,67,1340000.0
+2025,2,February,15,Basic Latte,Hot Arabica,Coffee,62,1334000.0
+2025,2,February,58,Hazelnut Latte,-,Coffee,61,1334000.0
+2025,2,February,29,Cappuccino,Hot Houseblend,Coffee,62,1320000.0
+2025,2,February,17,Basic Latte,Hot Houseblend,Coffee,57,1219000.0
+2025,2,February,43,Espresso Houseblend,Basic Espresso,Coffee,100,1200000.0
+2025,2,February,81,Soft Tea,-,Tea,63,1134000.0
+2025,2,February,73,Nostaltea,-,Tea,75,1125000.0
+2025,2,February,76,Nutella Meses,-,Snacks,91,1092000.0
+2025,2,February,14,Banana Bread,Original,Snacks,87,1044000.0
+2025,2,February,42,Espresso Houseblend,On The Rock,Coffee,84,1008000.0
+2025,2,February,41,Espresso Arabica,Basic Espresso,Coffee,78,936000.0
+2025,2,February,13,Banana Bread,Chocolate,Snacks,73,876000.0
+2025,2,February,40,Espresso Arabica,On The Rock,Coffee,73,876000.0
+2025,2,February,24,Burnt Sugar,-,Snacks,70,840000.0
+2025,2,February,84,Susu Oat,-,Add on,84,840000.0
+2025,2,February,55,Gula Gula,-,Snacks,68,816000.0
+2025,2,February,39,Donat Polos,-,Snacks,72,720000.0
+2025,2,February,45,Extra Shot,Arabica,Add on,72,504000.0
+2025,2,February,44,Extra Shot,Houseblend,Add on,71,426000.0
+2025,2,February,3,Air Mineral,-,Other,77,385000.0
+2025,2,February,87,Upgrade Beans (Arabica),-,Add on,71,284000.0
+2025,3,March,57,Happy Moca,Ice,Coffee,92,2670000.0
+2025,3,March,69,Matcha Latte (Gedhe),-,Menu Gedhe,89,2610000.0
+2025,3,March,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,86,2430000.0
+2025,3,March,90,WHITE,-,Menu Gedhe,85,2430000.0
+2025,3,March,21,Biru (Gedhe),-,Menu Gedhe,80,2370000.0
+2025,3,March,56,Happy Moca,Hot,Coffee,82,2370000.0
+2025,3,March,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,79,2370000.0
+2025,3,March,91,WHITE,Houseblend,Menu Gedhe,80,2370000.0
+2025,3,March,54,Green Thai Tea (Gedhe),-,Menu Gedhe,82,2340000.0
+2025,3,March,37,Chocolate (Gedhe),-,Menu Gedhe,81,2250000.0
+2025,3,March,71,Matchapresso (Gedhe),-,Menu Gedhe,82,2220000.0
+2025,3,March,89,Vanilla Latte (Gedhe),-,Menu Gedhe,77,2190000.0
+2025,3,March,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,73,2130000.0
+2025,3,March,51,Friendly Coffee (Gedhe),-,Menu Gedhe,72,2130000.0
+2025,3,March,94,Creamy Chocolate Cake,-,Other,76,2100000.0
+2025,3,March,86,Thai Tea (Gedhe),-,Menu Gedhe,75,2070000.0
+2025,3,March,79,Shakencano,-,Coffee,98,2058000.0
+2025,3,March,34,Chocolate,Hot,Other,84,2050000.0
+2025,3,March,92,WHITE,Arabica,Menu Gedhe,70,2040000.0
+2025,3,March,67,Matcha Latte,Ice,Other,89,2016000.0
+2025,3,March,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,70,2010000.0
+2025,3,March,96,Pisang Coklat,-,Snacks,91,1958000.0
+2025,3,March,28,Candy Latte (Gedhe),-,Menu Gedhe,66,1950000.0
+2025,3,March,35,Chocolate,Ice,Other,79,1950000.0
+2025,3,March,88,Vanilla Latte,-,Coffee,88,1932000.0
+2025,3,March,66,Matcha Espresso,-,Coffee,79,1925000.0
+2025,3,March,95,Waffle,-,Snacks,78,1925000.0
+2025,3,March,47,Friendly Coffee,Hot double shot,Coffee,87,1886000.0
+2025,3,March,93,Croffle,-,Snacks,71,1876000.0
+2025,3,March,36,Cold Brew,-,Coffee,81,1872000.0
+2025,3,March,18,Basic Latte,Ice Arabica,Coffee,84,1863000.0
+2025,3,March,70,Matchapresso,-,Coffee,76,1850000.0
+2025,3,March,17,Basic Latte,Hot Houseblend,Coffee,80,1817000.0
+2025,3,March,83,Sunset,-,Other,78,1794000.0
+2025,3,March,6,Americano,Hot Arabica,Coffee,89,1780000.0
+2025,3,March,8,Apple Pie Latte,-,Coffee,78,1776000.0
+2025,3,March,74,Not Tiramisu Latte,-,Coffee,79,1752000.0
+2025,3,March,15,Basic Latte,Hot Arabica,Coffee,82,1725000.0
+2025,3,March,16,Basic Latte,Ice Houseblend,Coffee,80,1725000.0
+2025,3,March,11,BLACK,Houseblend,Menu Gedhe,85,1700000.0
+2025,3,March,20,Biru,-,Coffee,74,1680000.0
+2025,3,March,25,Butterscotch,-,Coffee,76,1679000.0
+2025,3,March,82,Summer,-,Tea,81,1679000.0
+2025,3,March,61,Jasmine,Hot,Tea,79,1659000.0
+2025,3,March,77,Red Apple,-,Tea,79,1659000.0
+2025,3,March,10,BLACK,-,Menu Gedhe,82,1640000.0
+2025,3,March,64,Lemon Tea,Ice,Tea,78,1638000.0
+2025,3,March,27,Candy Latte,-,Coffee,74,1633000.0
+2025,3,March,50,Friendly Coffee,Ice,Coffee,74,1633000.0
+2025,3,March,7,Americano,Ice Arabica,Coffee,81,1620000.0
+2025,3,March,65,Lemons,-,Other,81,1620000.0
+2025,3,March,48,Friendly Coffee,Ice double shot,Coffee,71,1610000.0
+2025,3,March,58,Hazelnut Latte,-,Coffee,70,1610000.0
+2025,3,March,31,Cappuccino,Ice Houseblend,Coffee,75,1606000.0
+2025,3,March,32,Cappuccino,Ice Arabica,Coffee,73,1584000.0
+2025,3,March,53,Green Thai Tea,-,Tea,75,1575000.0
+2025,3,March,23,Black Rice,Hot,Other,69,1564000.0
+2025,3,March,72,Moody,-,Tea,73,1564000.0
+2025,3,March,19,Berry Cake,-,Other,66,1560000.0
+2025,3,March,33,Chamomile,-,Tea,78,1560000.0
+2025,3,March,80,Sitrus Cafe,-,Coffee,67,1560000.0
+2025,3,March,22,Black Rice,Ice,Other,69,1518000.0
+2025,3,March,30,Cappuccino,Hot Arabica,Coffee,72,1496000.0
+2025,3,March,52,Green Apple,-,Tea,71,1491000.0
+2025,3,March,12,BLACK,Arabica,Menu Gedhe,74,1480000.0
+2025,3,March,78,Red Liquid,-,Other,69,1472000.0
+2025,3,March,60,Jasmine,Ice,Tea,70,1470000.0
+2025,3,March,5,Americano,Ice Houesblend,Coffee,71,1420000.0
+2025,3,March,62,Jus Semangka,-,Other,67,1408000.0
+2025,3,March,49,Friendly Coffee,Hot,Coffee,63,1403000.0
+2025,3,March,68,Matcha Latte,Hot,Other,59,1392000.0
+2025,3,March,46,Forbidden Berry,-,Other,61,1368000.0
+2025,3,March,63,Lemon Tea,Hot,Tea,65,1365000.0
+2025,3,March,4,Americano,Hot Houseblend,Coffee,67,1340000.0
+2025,3,March,73,Nostaltea,-,Tea,87,1305000.0
+2025,3,March,85,Thai Tea,-,Tea,62,1302000.0
+2025,3,March,38,Creamy Klepon,-,Other,61,1296000.0
+2025,3,March,29,Cappuccino,Hot Houseblend,Coffee,59,1276000.0
+2025,3,March,81,Soft Tea,-,Tea,69,1242000.0
+2025,3,March,43,Espresso Houseblend,Basic Espresso,Coffee,86,1032000.0
+2025,3,March,42,Espresso Houseblend,On The Rock,Coffee,81,972000.0
+2025,3,March,40,Espresso Arabica,On The Rock,Coffee,80,960000.0
+2025,3,March,13,Banana Bread,Chocolate,Snacks,75,900000.0
+2025,3,March,39,Donat Polos,-,Snacks,86,860000.0
+2025,3,March,41,Espresso Arabica,Basic Espresso,Coffee,71,852000.0
+2025,3,March,24,Burnt Sugar,-,Snacks,69,828000.0
+2025,3,March,55,Gula Gula,-,Snacks,65,780000.0
+2025,3,March,84,Susu Oat,-,Add on,71,710000.0
+2025,3,March,14,Banana Bread,Original,Snacks,58,696000.0
+2025,3,March,76,Nutella Meses,-,Snacks,57,684000.0
+2025,3,March,45,Extra Shot,Arabica,Add on,85,595000.0
+2025,3,March,44,Extra Shot,Houseblend,Add on,78,468000.0
+2025,3,March,87,Upgrade Beans (Arabica),-,Add on,99,396000.0
+2025,3,March,3,Air Mineral,-,Other,79,395000.0
+2025,4,April,91,WHITE,Houseblend,Menu Gedhe,68,1980000.0
+2025,4,April,56,Happy Moca,Hot,Coffee,63,1800000.0
+2025,4,April,90,WHITE,-,Menu Gedhe,64,1800000.0
+2025,4,April,92,WHITE,Arabica,Menu Gedhe,62,1800000.0
+2025,4,April,28,Candy Latte (Gedhe),-,Menu Gedhe,56,1680000.0
+2025,4,April,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,60,1680000.0
+2025,4,April,69,Matcha Latte (Gedhe),-,Menu Gedhe,59,1680000.0
+2025,4,April,95,Waffle,-,Snacks,66,1650000.0
+2025,4,April,37,Chocolate (Gedhe),-,Menu Gedhe,56,1620000.0
+2025,4,April,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,58,1560000.0
+2025,4,April,94,Creamy Chocolate Cake,-,Other,51,1530000.0
+2025,4,April,57,Happy Moca,Ice,Coffee,50,1500000.0
+2025,4,April,25,Butterscotch,-,Coffee,66,1495000.0
+2025,4,April,50,Friendly Coffee,Ice,Coffee,68,1495000.0
+2025,4,April,70,Matchapresso,-,Coffee,61,1475000.0
+2025,4,April,62,Jus Semangka,-,Other,75,1474000.0
+2025,4,April,51,Friendly Coffee (Gedhe),-,Menu Gedhe,49,1470000.0
+2025,4,April,5,Americano,Ice Houesblend,Coffee,73,1460000.0
+2025,4,April,80,Sitrus Cafe,-,Coffee,63,1440000.0
+2025,4,April,86,Thai Tea (Gedhe),-,Menu Gedhe,52,1440000.0
+2025,4,April,58,Hazelnut Latte,-,Coffee,62,1426000.0
+2025,4,April,38,Creamy Klepon,-,Other,61,1416000.0
+2025,4,April,21,Biru (Gedhe),-,Menu Gedhe,52,1410000.0
+2025,4,April,54,Green Thai Tea (Gedhe),-,Menu Gedhe,48,1410000.0
+2025,4,April,71,Matchapresso (Gedhe),-,Menu Gedhe,51,1410000.0
+2025,4,April,78,Red Liquid,-,Other,64,1403000.0
+2025,4,April,65,Lemons,-,Other,70,1400000.0
+2025,4,April,93,Croffle,-,Snacks,50,1400000.0
+2025,4,April,19,Berry Cake,-,Other,59,1392000.0
+2025,4,April,15,Basic Latte,Hot Arabica,Coffee,61,1380000.0
+2025,4,April,35,Chocolate,Ice,Other,55,1375000.0
+2025,4,April,68,Matcha Latte,Hot,Other,58,1368000.0
+2025,4,April,63,Lemon Tea,Hot,Tea,65,1365000.0
+2025,4,April,47,Friendly Coffee,Hot double shot,Coffee,61,1357000.0
+2025,4,April,29,Cappuccino,Hot Houseblend,Coffee,62,1342000.0
+2025,4,April,96,Pisang Coklat,-,Snacks,64,1342000.0
+2025,4,April,23,Black Rice,Hot,Other,59,1334000.0
+2025,4,April,48,Friendly Coffee,Ice double shot,Coffee,59,1334000.0
+2025,4,April,16,Basic Latte,Ice Houseblend,Coffee,61,1311000.0
+2025,4,April,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,48,1290000.0
+2025,4,April,52,Green Apple,-,Tea,60,1260000.0
+2025,4,April,89,Vanilla Latte (Gedhe),-,Menu Gedhe,47,1260000.0
+2025,4,April,30,Cappuccino,Hot Arabica,Coffee,61,1254000.0
+2025,4,April,31,Cappuccino,Ice Houseblend,Coffee,60,1254000.0
+2025,4,April,22,Black Rice,Ice,Other,55,1242000.0
+2025,4,April,49,Friendly Coffee,Hot,Coffee,57,1242000.0
+2025,4,April,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,43,1230000.0
+2025,4,April,20,Biru,-,Coffee,53,1200000.0
+2025,4,April,60,Jasmine,Ice,Tea,57,1197000.0
+2025,4,April,46,Forbidden Berry,-,Other,49,1176000.0
+2025,4,April,74,Not Tiramisu Latte,-,Coffee,53,1176000.0
+2025,4,April,18,Basic Latte,Ice Arabica,Coffee,51,1173000.0
+2025,4,April,88,Vanilla Latte,-,Coffee,53,1173000.0
+2025,4,April,32,Cappuccino,Ice Arabica,Coffee,55,1166000.0
+2025,4,April,36,Cold Brew,-,Coffee,50,1152000.0
+2025,4,April,66,Matcha Espresso,-,Coffee,49,1150000.0
+2025,4,April,4,Americano,Hot Houseblend,Coffee,57,1140000.0
+2025,4,April,8,Apple Pie Latte,-,Coffee,49,1128000.0
+2025,4,April,67,Matcha Latte,Ice,Other,51,1128000.0
+2025,4,April,72,Moody,-,Tea,54,1127000.0
+2025,4,April,61,Jasmine,Hot,Tea,53,1113000.0
+2025,4,April,53,Green Thai Tea,-,Tea,52,1092000.0
+2025,4,April,79,Shakencano,-,Coffee,52,1092000.0
+2025,4,April,83,Sunset,-,Other,55,1081000.0
+2025,4,April,10,BLACK,-,Menu Gedhe,54,1080000.0
+2025,4,April,34,Chocolate,Hot,Other,46,1075000.0
+2025,4,April,64,Lemon Tea,Ice,Tea,51,1071000.0
+2025,4,April,81,Soft Tea,-,Tea,59,1062000.0
+2025,4,April,7,Americano,Ice Arabica,Coffee,53,1060000.0
+2025,4,April,82,Summer,-,Tea,48,1058000.0
+2025,4,April,6,Americano,Hot Arabica,Coffee,52,1040000.0
+2025,4,April,11,BLACK,Houseblend,Menu Gedhe,52,1040000.0
+2025,4,April,27,Candy Latte,-,Coffee,47,1012000.0
+2025,4,April,12,BLACK,Arabica,Menu Gedhe,49,980000.0
+2025,4,April,73,Nostaltea,-,Tea,64,960000.0
+2025,4,April,33,Chamomile,-,Tea,46,920000.0
+2025,4,April,77,Red Apple,-,Tea,43,903000.0
+2025,4,April,17,Basic Latte,Hot Houseblend,Coffee,39,874000.0
+2025,4,April,85,Thai Tea,-,Tea,39,819000.0
+2025,4,April,41,Espresso Arabica,Basic Espresso,Coffee,62,744000.0
+2025,4,April,55,Gula Gula,-,Snacks,60,720000.0
+2025,4,April,42,Espresso Houseblend,On The Rock,Coffee,52,624000.0
+2025,4,April,43,Espresso Houseblend,Basic Espresso,Coffee,49,588000.0
+2025,4,April,76,Nutella Meses,-,Snacks,48,576000.0
+2025,4,April,13,Banana Bread,Chocolate,Snacks,47,564000.0
+2025,4,April,14,Banana Bread,Original,Snacks,47,564000.0
+2025,4,April,40,Espresso Arabica,On The Rock,Coffee,44,528000.0
+2025,4,April,84,Susu Oat,-,Add on,51,510000.0
+2025,4,April,39,Donat Polos,-,Snacks,50,500000.0
+2025,4,April,24,Burnt Sugar,-,Snacks,41,492000.0
+2025,4,April,45,Extra Shot,Arabica,Add on,48,336000.0
+2025,4,April,44,Extra Shot,Houseblend,Add on,52,312000.0
+2025,4,April,3,Air Mineral,-,Other,59,295000.0
+2025,4,April,87,Upgrade Beans (Arabica),-,Add on,47,188000.0
+2025,5,May,37,Chocolate (Gedhe),-,Menu Gedhe,77,2280000.0
+2025,5,May,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,71,2130000.0
+2025,5,May,71,Matchapresso (Gedhe),-,Menu Gedhe,73,2100000.0
+2025,5,May,92,WHITE,Arabica,Menu Gedhe,75,2100000.0
+2025,5,May,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,71,2070000.0
+2025,5,May,90,WHITE,-,Menu Gedhe,69,2040000.0
+2025,5,May,89,Vanilla Latte (Gedhe),-,Menu Gedhe,69,1980000.0
+2025,5,May,54,Green Thai Tea (Gedhe),-,Menu Gedhe,67,1950000.0
+2025,5,May,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,67,1950000.0
+2025,5,May,51,Friendly Coffee (Gedhe),-,Menu Gedhe,66,1920000.0
+2025,5,May,56,Happy Moca,Hot,Coffee,65,1920000.0
+2025,5,May,86,Thai Tea (Gedhe),-,Menu Gedhe,68,1920000.0
+2025,5,May,93,Croffle,-,Snacks,72,1904000.0
+2025,5,May,57,Happy Moca,Ice,Coffee,66,1890000.0
+2025,5,May,21,Biru (Gedhe),-,Menu Gedhe,67,1860000.0
+2025,5,May,66,Matcha Espresso,-,Coffee,75,1800000.0
+2025,5,May,95,Waffle,-,Snacks,73,1800000.0
+2025,5,May,94,Creamy Chocolate Cake,-,Other,60,1770000.0
+2025,5,May,22,Black Rice,Ice,Other,77,1725000.0
+2025,5,May,83,Sunset,-,Other,78,1725000.0
+2025,5,May,60,Jasmine,Ice,Tea,82,1722000.0
+2025,5,May,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,60,1710000.0
+2025,5,May,38,Creamy Klepon,-,Other,74,1704000.0
+2025,5,May,61,Jasmine,Hot,Tea,81,1701000.0
+2025,5,May,46,Forbidden Berry,-,Other,73,1680000.0
+2025,5,May,34,Chocolate,Hot,Other,70,1675000.0
+2025,5,May,28,Candy Latte (Gedhe),-,Menu Gedhe,55,1650000.0
+2025,5,May,23,Black Rice,Hot,Other,73,1633000.0
+2025,5,May,35,Chocolate,Ice,Other,69,1625000.0
+2025,5,May,91,WHITE,Houseblend,Menu Gedhe,59,1620000.0
+2025,5,May,50,Friendly Coffee,Ice,Coffee,70,1587000.0
+2025,5,May,78,Red Liquid,-,Other,71,1587000.0
+2025,5,May,6,Americano,Hot Arabica,Coffee,79,1580000.0
+2025,5,May,70,Matchapresso,-,Coffee,68,1575000.0
+2025,5,May,15,Basic Latte,Hot Arabica,Coffee,68,1564000.0
+2025,5,May,88,Vanilla Latte,-,Coffee,70,1564000.0
+2025,5,May,29,Cappuccino,Hot Houseblend,Coffee,74,1562000.0
+2025,5,May,17,Basic Latte,Hot Houseblend,Coffee,69,1541000.0
+2025,5,May,25,Butterscotch,-,Coffee,69,1541000.0
+2025,5,May,65,Lemons,-,Other,76,1520000.0
+2025,5,May,74,Not Tiramisu Latte,-,Coffee,66,1512000.0
+2025,5,May,82,Summer,-,Tea,67,1495000.0
+2025,5,May,79,Shakencano,-,Coffee,71,1491000.0
+2025,5,May,85,Thai Tea,-,Tea,71,1491000.0
+2025,5,May,80,Sitrus Cafe,-,Coffee,66,1488000.0
+2025,5,May,27,Candy Latte,-,Coffee,69,1472000.0
+2025,5,May,19,Berry Cake,-,Other,62,1464000.0
+2025,5,May,11,BLACK,Houseblend,Menu Gedhe,73,1460000.0
+2025,5,May,30,Cappuccino,Hot Arabica,Coffee,69,1452000.0
+2025,5,May,16,Basic Latte,Ice Houseblend,Coffee,68,1449000.0
+2025,5,May,48,Friendly Coffee,Ice double shot,Coffee,63,1426000.0
+2025,5,May,49,Friendly Coffee,Hot,Coffee,65,1426000.0
+2025,5,May,63,Lemon Tea,Hot,Tea,67,1407000.0
+2025,5,May,81,Soft Tea,-,Tea,78,1404000.0
+2025,5,May,47,Friendly Coffee,Hot double shot,Coffee,64,1403000.0
+2025,5,May,8,Apple Pie Latte,-,Coffee,59,1392000.0
+2025,5,May,67,Matcha Latte,Ice,Other,60,1392000.0
+2025,5,May,18,Basic Latte,Ice Arabica,Coffee,62,1380000.0
+2025,5,May,77,Red Apple,-,Tea,64,1344000.0
+2025,5,May,4,Americano,Hot Houseblend,Coffee,66,1320000.0
+2025,5,May,12,BLACK,Arabica,Menu Gedhe,66,1320000.0
+2025,5,May,53,Green Thai Tea,-,Tea,62,1302000.0
+2025,5,May,5,Americano,Ice Houesblend,Coffee,65,1300000.0
+2025,5,May,20,Biru,-,Coffee,57,1296000.0
+2025,5,May,33,Chamomile,-,Tea,64,1280000.0
+2025,5,May,36,Cold Brew,-,Coffee,57,1272000.0
+2025,5,May,52,Green Apple,-,Tea,60,1260000.0
+2025,5,May,69,Matcha Latte (Gedhe),-,Menu Gedhe,44,1260000.0
+2025,5,May,62,Jus Semangka,-,Other,59,1254000.0
+2025,5,May,73,Nostaltea,-,Tea,83,1245000.0
+2025,5,May,32,Cappuccino,Ice Arabica,Coffee,60,1232000.0
+2025,5,May,7,Americano,Ice Arabica,Coffee,59,1180000.0
+2025,5,May,68,Matcha Latte,Hot,Other,50,1152000.0
+2025,5,May,96,Pisang Coklat,-,Snacks,54,1144000.0
+2025,5,May,64,Lemon Tea,Ice,Tea,53,1113000.0
+2025,5,May,58,Hazelnut Latte,-,Coffee,52,1081000.0
+2025,5,May,72,Moody,-,Tea,49,1081000.0
+2025,5,May,31,Cappuccino,Ice Houseblend,Coffee,51,1078000.0
+2025,5,May,13,Banana Bread,Chocolate,Snacks,83,996000.0
+2025,5,May,10,BLACK,-,Menu Gedhe,45,900000.0
+2025,5,May,40,Espresso Arabica,On The Rock,Coffee,75,900000.0
+2025,5,May,42,Espresso Houseblend,On The Rock,Coffee,69,828000.0
+2025,5,May,24,Burnt Sugar,-,Snacks,66,792000.0
+2025,5,May,39,Donat Polos,-,Snacks,78,780000.0
+2025,5,May,41,Espresso Arabica,Basic Espresso,Coffee,64,768000.0
+2025,5,May,14,Banana Bread,Original,Snacks,62,744000.0
+2025,5,May,55,Gula Gula,-,Snacks,62,744000.0
+2025,5,May,84,Susu Oat,-,Add on,73,730000.0
+2025,5,May,76,Nutella Meses,-,Snacks,58,696000.0
+2025,5,May,43,Espresso Houseblend,Basic Espresso,Coffee,57,684000.0
+2025,5,May,45,Extra Shot,Arabica,Add on,57,399000.0
+2025,5,May,3,Air Mineral,-,Other,77,385000.0
+2025,5,May,44,Extra Shot,Houseblend,Add on,52,312000.0
+2025,5,May,87,Upgrade Beans (Arabica),-,Add on,72,288000.0
+2025,6,June,54,Green Thai Tea (Gedhe),-,Menu Gedhe,105,3090000.0
+2025,6,June,56,Happy Moca,Hot,Coffee,103,3030000.0
+2025,6,June,92,WHITE,Arabica,Menu Gedhe,103,2940000.0
+2025,6,June,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,103,2910000.0
+2025,6,June,21,Biru (Gedhe),-,Menu Gedhe,96,2790000.0
+2025,6,June,89,Vanilla Latte (Gedhe),-,Menu Gedhe,99,2760000.0
+2025,6,June,91,WHITE,Houseblend,Menu Gedhe,95,2700000.0
+2025,6,June,94,Creamy Chocolate Cake,-,Other,93,2700000.0
+2025,6,June,37,Chocolate (Gedhe),-,Menu Gedhe,91,2670000.0
+2025,6,June,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,94,2670000.0
+2025,6,June,57,Happy Moca,Ice,Coffee,92,2640000.0
+2025,6,June,90,WHITE,-,Menu Gedhe,92,2640000.0
+2025,6,June,51,Friendly Coffee (Gedhe),-,Menu Gedhe,88,2580000.0
+2025,6,June,60,Jasmine,Ice,Tea,122,2562000.0
+2025,6,June,35,Chocolate,Ice,Other,105,2550000.0
+2025,6,June,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,90,2550000.0
+2025,6,June,69,Matcha Latte (Gedhe),-,Menu Gedhe,89,2520000.0
+2025,6,June,95,Waffle,-,Snacks,108,2500000.0
+2025,6,June,66,Matcha Espresso,-,Coffee,102,2450000.0
+2025,6,June,19,Berry Cake,-,Other,107,2448000.0
+2025,6,June,28,Candy Latte (Gedhe),-,Menu Gedhe,84,2370000.0
+2025,6,June,71,Matchapresso (Gedhe),-,Menu Gedhe,82,2370000.0
+2025,6,June,62,Jus Semangka,-,Other,109,2310000.0
+2025,6,June,86,Thai Tea (Gedhe),-,Menu Gedhe,83,2310000.0
+2025,6,June,38,Creamy Klepon,-,Other,98,2280000.0
+2025,6,June,25,Butterscotch,-,Coffee,104,2254000.0
+2025,6,June,50,Friendly Coffee,Ice,Coffee,103,2254000.0
+2025,6,June,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,82,2250000.0
+2025,6,June,8,Apple Pie Latte,-,Coffee,95,2208000.0
+2025,6,June,23,Black Rice,Hot,Other,101,2208000.0
+2025,6,June,15,Basic Latte,Hot Arabica,Coffee,101,2185000.0
+2025,6,June,74,Not Tiramisu Latte,-,Coffee,98,2184000.0
+2025,6,June,85,Thai Tea,-,Tea,103,2163000.0
+2025,6,June,27,Candy Latte,-,Coffee,95,2162000.0
+2025,6,June,68,Matcha Latte,Hot,Other,95,2160000.0
+2025,6,June,80,Sitrus Cafe,-,Coffee,95,2160000.0
+2025,6,June,70,Matchapresso,-,Coffee,87,2150000.0
+2025,6,June,79,Shakencano,-,Coffee,101,2121000.0
+2025,6,June,6,Americano,Hot Arabica,Coffee,104,2080000.0
+2025,6,June,12,BLACK,Arabica,Menu Gedhe,104,2080000.0
+2025,6,June,63,Lemon Tea,Hot,Tea,98,2058000.0
+2025,6,June,34,Chocolate,Hot,Other,83,2025000.0
+2025,6,June,17,Basic Latte,Hot Houseblend,Coffee,93,2024000.0
+2025,6,June,67,Matcha Latte,Ice,Other,87,2016000.0
+2025,6,June,48,Friendly Coffee,Ice double shot,Coffee,92,2001000.0
+2025,6,June,58,Hazelnut Latte,-,Coffee,97,2001000.0
+2025,6,June,53,Green Thai Tea,-,Tea,95,1995000.0
+2025,6,June,10,BLACK,-,Menu Gedhe,99,1980000.0
+2025,6,June,49,Friendly Coffee,Hot,Coffee,89,1978000.0
+2025,6,June,78,Red Liquid,-,Other,89,1955000.0
+2025,6,June,88,Vanilla Latte,-,Coffee,85,1955000.0
+2025,6,June,77,Red Apple,-,Tea,93,1953000.0
+2025,6,June,22,Black Rice,Ice,Other,87,1932000.0
+2025,6,June,5,Americano,Ice Houesblend,Coffee,96,1920000.0
+2025,6,June,16,Basic Latte,Ice Houseblend,Coffee,94,1909000.0
+2025,6,June,36,Cold Brew,-,Coffee,87,1896000.0
+2025,6,June,82,Summer,-,Tea,86,1863000.0
+2025,6,June,29,Cappuccino,Hot Houseblend,Coffee,89,1848000.0
+2025,6,June,64,Lemon Tea,Ice,Tea,88,1848000.0
+2025,6,June,47,Friendly Coffee,Hot double shot,Coffee,84,1840000.0
+2025,6,June,65,Lemons,-,Other,92,1840000.0
+2025,6,June,46,Forbidden Berry,-,Other,79,1824000.0
+2025,6,June,11,BLACK,Houseblend,Menu Gedhe,91,1820000.0
+2025,6,June,83,Sunset,-,Other,83,1794000.0
+2025,6,June,93,Croffle,-,Snacks,70,1792000.0
+2025,6,June,81,Soft Tea,-,Tea,99,1782000.0
+2025,6,June,18,Basic Latte,Ice Arabica,Coffee,78,1771000.0
+2025,6,June,61,Jasmine,Hot,Tea,84,1764000.0
+2025,6,June,4,Americano,Hot Houseblend,Coffee,88,1760000.0
+2025,6,June,31,Cappuccino,Ice Houseblend,Coffee,85,1760000.0
+2025,6,June,52,Green Apple,-,Tea,83,1743000.0
+2025,6,June,7,Americano,Ice Arabica,Coffee,87,1740000.0
+2025,6,June,30,Cappuccino,Hot Arabica,Coffee,79,1672000.0
+2025,6,June,96,Pisang Coklat,-,Snacks,85,1672000.0
+2025,6,June,72,Moody,-,Tea,74,1656000.0
+2025,6,June,20,Biru,-,Coffee,65,1512000.0
+2025,6,June,32,Cappuccino,Ice Arabica,Coffee,70,1496000.0
+2025,6,June,33,Chamomile,-,Tea,73,1460000.0
+2025,6,June,24,Burnt Sugar,-,Snacks,112,1344000.0
+2025,6,June,73,Nostaltea,-,Tea,79,1185000.0
+2025,6,June,14,Banana Bread,Original,Snacks,95,1140000.0
+2025,6,June,40,Espresso Arabica,On The Rock,Coffee,95,1140000.0
+2025,6,June,43,Espresso Houseblend,Basic Espresso,Coffee,94,1128000.0
+2025,6,June,13,Banana Bread,Chocolate,Snacks,93,1116000.0
+2025,6,June,76,Nutella Meses,-,Snacks,91,1092000.0
+2025,6,June,55,Gula Gula,-,Snacks,84,1008000.0
+2025,6,June,41,Espresso Arabica,Basic Espresso,Coffee,82,984000.0
+2025,6,June,39,Donat Polos,-,Snacks,97,970000.0
+2025,6,June,84,Susu Oat,-,Add on,85,850000.0
+2025,6,June,42,Espresso Houseblend,On The Rock,Coffee,68,816000.0
+2025,6,June,45,Extra Shot,Arabica,Add on,102,714000.0
+2025,6,June,44,Extra Shot,Houseblend,Add on,99,594000.0
+2025,6,June,3,Air Mineral,-,Other,90,450000.0
+2025,6,June,87,Upgrade Beans (Arabica),-,Add on,106,424000.0
+2025,7,July,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,99,2910000.0
+2025,7,July,54,Green Thai Tea (Gedhe),-,Menu Gedhe,99,2880000.0
+2025,7,July,94,Creamy Chocolate Cake,-,Other,97,2850000.0
+2025,7,July,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,97,2820000.0
+2025,7,July,86,Thai Tea (Gedhe),-,Menu Gedhe,99,2730000.0
+2025,7,July,89,Vanilla Latte (Gedhe),-,Menu Gedhe,93,2730000.0
+2025,7,July,34,Chocolate,Hot,Other,111,2725000.0
+2025,7,July,51,Friendly Coffee (Gedhe),-,Menu Gedhe,95,2640000.0
+2025,7,July,56,Happy Moca,Hot,Coffee,92,2640000.0
+2025,7,July,93,Croffle,-,Snacks,98,2604000.0
+2025,7,July,8,Apple Pie Latte,-,Coffee,111,2496000.0
+2025,7,July,90,WHITE,-,Menu Gedhe,85,2460000.0
+2025,7,July,91,WHITE,Houseblend,Menu Gedhe,83,2460000.0
+2025,7,July,37,Chocolate (Gedhe),-,Menu Gedhe,85,2400000.0
+2025,7,July,49,Friendly Coffee,Hot,Coffee,110,2392000.0
+2025,7,July,21,Biru (Gedhe),-,Menu Gedhe,82,2370000.0
+2025,7,July,28,Candy Latte (Gedhe),-,Menu Gedhe,83,2370000.0
+2025,7,July,20,Biru,-,Coffee,100,2304000.0
+2025,7,July,46,Forbidden Berry,-,Other,98,2280000.0
+2025,7,July,57,Happy Moca,Ice,Coffee,78,2280000.0
+2025,7,July,64,Lemon Tea,Ice,Tea,108,2268000.0
+2025,7,July,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,80,2250000.0
+2025,7,July,66,Matcha Espresso,-,Coffee,95,2250000.0
+2025,7,July,38,Creamy Klepon,-,Other,100,2232000.0
+2025,7,July,71,Matchapresso (Gedhe),-,Menu Gedhe,77,2220000.0
+2025,7,July,95,Waffle,-,Snacks,91,2175000.0
+2025,7,July,92,WHITE,Arabica,Menu Gedhe,75,2160000.0
+2025,7,July,35,Chocolate,Ice,Other,91,2150000.0
+2025,7,July,52,Green Apple,-,Tea,102,2142000.0
+2025,7,July,18,Basic Latte,Ice Arabica,Coffee,94,2139000.0
+2025,7,July,47,Friendly Coffee,Hot double shot,Coffee,95,2139000.0
+2025,7,July,74,Not Tiramisu Latte,-,Coffee,90,2136000.0
+2025,7,July,80,Sitrus Cafe,-,Coffee,92,2136000.0
+2025,7,July,50,Friendly Coffee,Ice,Coffee,95,2116000.0
+2025,7,July,69,Matcha Latte (Gedhe),-,Menu Gedhe,73,2100000.0
+2025,7,July,70,Matchapresso,-,Coffee,88,2100000.0
+2025,7,July,85,Thai Tea,-,Tea,100,2100000.0
+2025,7,July,23,Black Rice,Hot,Other,95,2093000.0
+2025,7,July,36,Cold Brew,-,Coffee,91,2088000.0
+2025,7,July,67,Matcha Latte,Ice,Other,91,2088000.0
+2025,7,July,68,Matcha Latte,Hot,Other,88,2088000.0
+2025,7,July,33,Chamomile,-,Tea,104,2080000.0
+2025,7,July,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,72,2040000.0
+2025,7,July,79,Shakencano,-,Coffee,94,1974000.0
+2025,7,July,11,BLACK,Houseblend,Menu Gedhe,98,1960000.0
+2025,7,July,25,Butterscotch,-,Coffee,91,1955000.0
+2025,7,July,78,Red Liquid,-,Other,89,1955000.0
+2025,7,July,83,Sunset,-,Other,89,1955000.0
+2025,7,July,48,Friendly Coffee,Ice double shot,Coffee,87,1909000.0
+2025,7,July,31,Cappuccino,Ice Houseblend,Coffee,86,1892000.0
+2025,7,July,5,Americano,Ice Houesblend,Coffee,94,1880000.0
+2025,7,July,27,Candy Latte,-,Coffee,86,1863000.0
+2025,7,July,29,Cappuccino,Hot Houseblend,Coffee,89,1848000.0
+2025,7,July,60,Jasmine,Ice,Tea,87,1827000.0
+2025,7,July,15,Basic Latte,Hot Arabica,Coffee,87,1817000.0
+2025,7,July,58,Hazelnut Latte,-,Coffee,82,1817000.0
+2025,7,July,82,Summer,-,Tea,84,1817000.0
+2025,7,July,88,Vanilla Latte,-,Coffee,84,1817000.0
+2025,7,July,96,Pisang Coklat,-,Snacks,85,1804000.0
+2025,7,July,30,Cappuccino,Hot Arabica,Coffee,87,1782000.0
+2025,7,July,32,Cappuccino,Ice Arabica,Coffee,85,1782000.0
+2025,7,July,62,Jus Semangka,-,Other,86,1760000.0
+2025,7,July,17,Basic Latte,Hot Houseblend,Coffee,79,1748000.0
+2025,7,July,61,Jasmine,Hot,Tea,83,1743000.0
+2025,7,July,6,Americano,Hot Arabica,Coffee,87,1740000.0
+2025,7,July,10,BLACK,-,Menu Gedhe,87,1740000.0
+2025,7,July,22,Black Rice,Ice,Other,77,1725000.0
+2025,7,July,77,Red Apple,-,Tea,82,1722000.0
+2025,7,July,7,Americano,Ice Arabica,Coffee,85,1700000.0
+2025,7,July,4,Americano,Hot Houseblend,Coffee,84,1680000.0
+2025,7,July,12,BLACK,Arabica,Menu Gedhe,84,1680000.0
+2025,7,July,63,Lemon Tea,Hot,Tea,79,1659000.0
+2025,7,July,16,Basic Latte,Ice Houseblend,Coffee,75,1656000.0
+2025,7,July,53,Green Thai Tea,-,Tea,78,1638000.0
+2025,7,July,72,Moody,-,Tea,75,1610000.0
+2025,7,July,65,Lemons,-,Other,77,1540000.0
+2025,7,July,19,Berry Cake,-,Other,66,1512000.0
+2025,7,July,81,Soft Tea,-,Tea,71,1278000.0
+2025,7,July,55,Gula Gula,-,Snacks,104,1248000.0
+2025,7,July,14,Banana Bread,Original,Snacks,97,1164000.0
+2025,7,July,40,Espresso Arabica,On The Rock,Coffee,93,1116000.0
+2025,7,July,73,Nostaltea,-,Tea,72,1080000.0
+2025,7,July,13,Banana Bread,Chocolate,Snacks,84,1008000.0
+2025,7,July,24,Burnt Sugar,-,Snacks,84,1008000.0
+2025,7,July,76,Nutella Meses,-,Snacks,79,948000.0
+2025,7,July,84,Susu Oat,-,Add on,93,930000.0
+2025,7,July,43,Espresso Houseblend,Basic Espresso,Coffee,77,924000.0
+2025,7,July,42,Espresso Houseblend,On The Rock,Coffee,74,888000.0
+2025,7,July,41,Espresso Arabica,Basic Espresso,Coffee,72,864000.0
+2025,7,July,39,Donat Polos,-,Snacks,68,680000.0
+2025,7,July,45,Extra Shot,Arabica,Add on,88,616000.0
+2025,7,July,44,Extra Shot,Houseblend,Add on,94,564000.0
+2025,7,July,3,Air Mineral,-,Other,88,440000.0
+2025,7,July,87,Upgrade Beans (Arabica),-,Add on,98,392000.0
+2025,8,August,91,WHITE,Houseblend,Menu Gedhe,86,2460000.0
+2025,8,August,51,Friendly Coffee (Gedhe),-,Menu Gedhe,84,2400000.0
+2025,8,August,28,Candy Latte (Gedhe),-,Menu Gedhe,82,2370000.0
+2025,8,August,69,Matcha Latte (Gedhe),-,Menu Gedhe,81,2370000.0
+2025,8,August,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,84,2370000.0
+2025,8,August,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,83,2310000.0
+2025,8,August,54,Green Thai Tea (Gedhe),-,Menu Gedhe,79,2310000.0
+2025,8,August,93,Croffle,-,Snacks,85,2240000.0
+2025,8,August,56,Happy Moca,Hot,Coffee,77,2190000.0
+2025,8,August,92,WHITE,Arabica,Menu Gedhe,72,2130000.0
+2025,8,August,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,73,2100000.0
+2025,8,August,35,Chocolate,Ice,Other,88,2100000.0
+2025,8,August,37,Chocolate (Gedhe),-,Menu Gedhe,72,2100000.0
+2025,8,August,57,Happy Moca,Ice,Coffee,72,2100000.0
+2025,8,August,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,74,2070000.0
+2025,8,August,90,WHITE,-,Menu Gedhe,74,2070000.0
+2025,8,August,66,Matcha Espresso,-,Coffee,80,1925000.0
+2025,8,August,58,Hazelnut Latte,-,Coffee,86,1909000.0
+2025,8,August,38,Creamy Klepon,-,Other,84,1896000.0
+2025,8,August,25,Butterscotch,-,Coffee,83,1886000.0
+2025,8,August,21,Biru (Gedhe),-,Menu Gedhe,66,1860000.0
+2025,8,August,79,Shakencano,-,Coffee,86,1806000.0
+2025,8,August,46,Forbidden Berry,-,Other,79,1800000.0
+2025,8,August,82,Summer,-,Tea,81,1794000.0
+2025,8,August,53,Green Thai Tea,-,Tea,84,1764000.0
+2025,8,August,19,Berry Cake,-,Other,74,1752000.0
+2025,8,August,88,Vanilla Latte,-,Coffee,79,1748000.0
+2025,8,August,60,Jasmine,Ice,Tea,83,1743000.0
+2025,8,August,89,Vanilla Latte (Gedhe),-,Menu Gedhe,62,1740000.0
+2025,8,August,71,Matchapresso (Gedhe),-,Menu Gedhe,58,1710000.0
+2025,8,August,95,Waffle,-,Snacks,70,1700000.0
+2025,8,August,30,Cappuccino,Hot Arabica,Coffee,85,1694000.0
+2025,8,August,61,Jasmine,Hot,Tea,80,1680000.0
+2025,8,August,63,Lemon Tea,Hot,Tea,80,1680000.0
+2025,8,August,85,Thai Tea,-,Tea,80,1680000.0
+2025,8,August,62,Jus Semangka,-,Other,81,1672000.0
+2025,8,August,8,Apple Pie Latte,-,Coffee,70,1656000.0
+2025,8,August,68,Matcha Latte,Hot,Other,70,1656000.0
+2025,8,August,74,Not Tiramisu Latte,-,Coffee,73,1656000.0
+2025,8,August,78,Red Liquid,-,Other,77,1656000.0
+2025,8,August,32,Cappuccino,Ice Arabica,Coffee,80,1650000.0
+2025,8,August,86,Thai Tea (Gedhe),-,Menu Gedhe,60,1650000.0
+2025,8,August,94,Creamy Chocolate Cake,-,Other,57,1650000.0
+2025,8,August,49,Friendly Coffee,Hot,Coffee,74,1633000.0
+2025,8,August,50,Friendly Coffee,Ice,Coffee,71,1587000.0
+2025,8,August,27,Candy Latte,-,Coffee,69,1564000.0
+2025,8,August,47,Friendly Coffee,Hot double shot,Coffee,68,1564000.0
+2025,8,August,29,Cappuccino,Hot Houseblend,Coffee,73,1562000.0
+2025,8,August,4,Americano,Hot Houseblend,Coffee,78,1560000.0
+2025,8,August,16,Basic Latte,Ice Houseblend,Coffee,73,1541000.0
+2025,8,August,11,BLACK,Houseblend,Menu Gedhe,77,1540000.0
+2025,8,August,72,Moody,-,Tea,70,1518000.0
+2025,8,August,83,Sunset,-,Other,73,1518000.0
+2025,8,August,67,Matcha Latte,Ice,Other,65,1512000.0
+2025,8,August,80,Sitrus Cafe,-,Coffee,69,1512000.0
+2025,8,August,12,BLACK,Arabica,Menu Gedhe,75,1500000.0
+2025,8,August,18,Basic Latte,Ice Arabica,Coffee,70,1495000.0
+2025,8,August,7,Americano,Ice Arabica,Coffee,74,1480000.0
+2025,8,August,65,Lemons,-,Other,74,1480000.0
+2025,8,August,70,Matchapresso,-,Coffee,62,1475000.0
+2025,8,August,77,Red Apple,-,Tea,70,1470000.0
+2025,8,August,20,Biru,-,Coffee,65,1464000.0
+2025,8,August,36,Cold Brew,-,Coffee,64,1464000.0
+2025,8,August,96,Pisang Coklat,-,Snacks,68,1452000.0
+2025,8,August,15,Basic Latte,Hot Arabica,Coffee,65,1449000.0
+2025,8,August,48,Friendly Coffee,Ice double shot,Coffee,68,1449000.0
+2025,8,August,64,Lemon Tea,Ice,Tea,69,1449000.0
+2025,8,August,52,Green Apple,-,Tea,67,1407000.0
+2025,8,August,34,Chocolate,Hot,Other,62,1400000.0
+2025,8,August,31,Cappuccino,Ice Houseblend,Coffee,67,1364000.0
+2025,8,August,17,Basic Latte,Hot Houseblend,Coffee,62,1357000.0
+2025,8,August,23,Black Rice,Hot,Other,63,1357000.0
+2025,8,August,22,Black Rice,Ice,Other,63,1334000.0
+2025,8,August,81,Soft Tea,-,Tea,74,1332000.0
+2025,8,August,5,Americano,Ice Houesblend,Coffee,66,1320000.0
+2025,8,August,73,Nostaltea,-,Tea,87,1305000.0
+2025,8,August,33,Chamomile,-,Tea,64,1280000.0
+2025,8,August,6,Americano,Hot Arabica,Coffee,63,1260000.0
+2025,8,August,10,BLACK,-,Menu Gedhe,63,1260000.0
+2025,8,August,55,Gula Gula,-,Snacks,81,972000.0
+2025,8,August,14,Banana Bread,Original,Snacks,78,936000.0
+2025,8,August,13,Banana Bread,Chocolate,Snacks,75,900000.0
+2025,8,August,41,Espresso Arabica,Basic Espresso,Coffee,74,888000.0
+2025,8,August,76,Nutella Meses,-,Snacks,71,852000.0
+2025,8,August,24,Burnt Sugar,-,Snacks,70,840000.0
+2025,8,August,40,Espresso Arabica,On The Rock,Coffee,68,816000.0
+2025,8,August,43,Espresso Houseblend,Basic Espresso,Coffee,68,816000.0
+2025,8,August,39,Donat Polos,-,Snacks,80,800000.0
+2025,8,August,42,Espresso Houseblend,On The Rock,Coffee,66,792000.0
+2025,8,August,84,Susu Oat,-,Add on,66,660000.0
+2025,8,August,44,Extra Shot,Houseblend,Add on,74,444000.0
+2025,8,August,45,Extra Shot,Arabica,Add on,58,406000.0
+2025,8,August,3,Air Mineral,-,Other,69,345000.0
+2025,8,August,87,Upgrade Beans (Arabica),-,Add on,60,240000.0
+2025,9,September,21,Biru (Gedhe),-,Menu Gedhe,76,2190000.0
+2025,9,September,28,Candy Latte (Gedhe),-,Menu Gedhe,76,2190000.0
+2025,9,September,37,Chocolate (Gedhe),-,Menu Gedhe,79,2190000.0
+2025,9,September,56,Happy Moca,Hot,Coffee,74,2100000.0
+2025,9,September,89,Vanilla Latte (Gedhe),-,Menu Gedhe,74,2100000.0
+2025,9,September,9,Apple Pie Latte (Gedhe),-,Menu Gedhe,70,2070000.0
+2025,9,September,92,WHITE,Arabica,Menu Gedhe,70,2070000.0
+2025,9,September,49,Friendly Coffee,Hot,Coffee,89,2024000.0
+2025,9,September,26,Butterscotch Latte (Gedhe),-,Menu Gedhe,68,2010000.0
+2025,9,September,59,Hazelnut Latte (Gedhe),-,Menu Gedhe,72,2010000.0
+2025,9,September,50,Friendly Coffee,Ice,Coffee,92,2001000.0
+2025,9,September,86,Thai Tea (Gedhe),-,Menu Gedhe,73,1980000.0
+2025,9,September,91,WHITE,Houseblend,Menu Gedhe,73,1980000.0
+2025,9,September,57,Happy Moca,Ice,Coffee,67,1950000.0
+2025,9,September,96,Pisang Coklat,-,Snacks,88,1870000.0
+2025,9,September,94,Creamy Chocolate Cake,-,Other,63,1860000.0
+2025,9,September,90,WHITE,-,Menu Gedhe,63,1830000.0
+2025,9,September,51,Friendly Coffee (Gedhe),-,Menu Gedhe,63,1800000.0
+2025,9,September,71,Matchapresso (Gedhe),-,Menu Gedhe,66,1800000.0
+2025,9,September,88,Vanilla Latte,-,Coffee,86,1771000.0
+2025,9,September,75,Not Tiramisu Latte (Gedhe),-,Menu Gedhe,61,1770000.0
+2025,9,September,52,Green Apple,-,Tea,84,1764000.0
+2025,9,September,6,Americano,Hot Arabica,Coffee,88,1760000.0
+2025,9,September,61,Jasmine,Hot,Tea,83,1743000.0
+2025,9,September,54,Green Thai Tea (Gedhe),-,Menu Gedhe,62,1740000.0
+2025,9,September,69,Matcha Latte (Gedhe),-,Menu Gedhe,60,1740000.0
+2025,9,September,19,Berry Cake,-,Other,74,1728000.0
+2025,9,September,17,Basic Latte,Hot Houseblend,Coffee,79,1702000.0
+2025,9,September,95,Waffle,-,Snacks,69,1700000.0
+2025,9,September,18,Basic Latte,Ice Arabica,Coffee,76,1679000.0
+2025,9,September,16,Basic Latte,Ice Houseblend,Coffee,76,1656000.0
+2025,9,September,80,Sitrus Cafe,-,Coffee,72,1656000.0
+2025,9,September,34,Chocolate,Hot,Other,70,1650000.0
+2025,9,September,77,Red Apple,-,Tea,78,1638000.0
+2025,9,September,53,Green Thai Tea,-,Tea,77,1617000.0
+2025,9,September,35,Chocolate,Ice,Other,68,1600000.0
+2025,9,September,22,Black Rice,Ice,Other,69,1587000.0
+2025,9,September,67,Matcha Latte,Ice,Other,71,1584000.0
+2025,9,September,23,Black Rice,Hot,Other,70,1564000.0
+2025,9,September,82,Summer,-,Tea,71,1564000.0
+2025,9,September,66,Matcha Espresso,-,Coffee,64,1550000.0
+2025,9,September,74,Not Tiramisu Latte,-,Coffee,66,1536000.0
+2025,9,September,70,Matchapresso,-,Coffee,66,1525000.0
+2025,9,September,11,BLACK,Houseblend,Menu Gedhe,76,1520000.0
+2025,9,September,27,Candy Latte,-,Coffee,71,1518000.0
+2025,9,September,25,Butterscotch,-,Coffee,70,1495000.0
+2025,9,September,83,Sunset,-,Other,69,1495000.0
+2025,9,September,38,Creamy Klepon,-,Other,65,1488000.0
+2025,9,September,32,Cappuccino,Ice Arabica,Coffee,69,1474000.0
+2025,9,September,62,Jus Semangka,-,Other,68,1474000.0
+2025,9,September,15,Basic Latte,Hot Arabica,Coffee,65,1472000.0
+2025,9,September,48,Friendly Coffee,Ice double shot,Coffee,66,1472000.0
+2025,9,September,78,Red Liquid,-,Other,73,1472000.0
+2025,9,September,29,Cappuccino,Hot Houseblend,Coffee,67,1452000.0
+2025,9,September,36,Cold Brew,-,Coffee,59,1392000.0
+2025,9,September,46,Forbidden Berry,-,Other,60,1392000.0
+2025,9,September,30,Cappuccino,Hot Arabica,Coffee,68,1386000.0
+2025,9,September,60,Jasmine,Ice,Tea,66,1386000.0
+2025,9,September,79,Shakencano,-,Coffee,65,1365000.0
+2025,9,September,63,Lemon Tea,Hot,Tea,64,1344000.0
+2025,9,September,31,Cappuccino,Ice Houseblend,Coffee,65,1342000.0
+2025,9,September,33,Chamomile,-,Tea,67,1340000.0
+2025,9,September,65,Lemons,-,Other,67,1340000.0
+2025,9,September,20,Biru,-,Coffee,56,1320000.0
+2025,9,September,58,Hazelnut Latte,-,Coffee,57,1288000.0
+2025,9,September,4,Americano,Hot Houseblend,Coffee,63,1260000.0
+2025,9,September,5,Americano,Ice Houesblend,Coffee,63,1260000.0
+2025,9,September,85,Thai Tea,-,Tea,60,1260000.0
+2025,9,September,72,Moody,-,Tea,58,1242000.0
+2025,9,September,10,BLACK,-,Menu Gedhe,62,1240000.0
+2025,9,September,12,BLACK,Arabica,Menu Gedhe,62,1240000.0
+2025,9,September,47,Friendly Coffee,Hot double shot,Coffee,57,1196000.0
+2025,9,September,8,Apple Pie Latte,-,Coffee,50,1176000.0
+2025,9,September,68,Matcha Latte,Hot,Other,54,1176000.0
+2025,9,September,64,Lemon Tea,Ice,Tea,55,1155000.0
+2025,9,September,7,Americano,Ice Arabica,Coffee,55,1100000.0
+2025,9,September,81,Soft Tea,-,Tea,58,1044000.0
+2025,9,September,93,Croffle,-,Snacks,40,1036000.0
+2025,9,September,43,Espresso Houseblend,Basic Espresso,Coffee,78,936000.0
+2025,9,September,41,Espresso Arabica,Basic Espresso,Coffee,72,864000.0
+2025,9,September,73,Nostaltea,-,Tea,57,855000.0
+2025,9,September,40,Espresso Arabica,On The Rock,Coffee,71,852000.0
+2025,9,September,14,Banana Bread,Original,Snacks,68,816000.0
+2025,9,September,42,Espresso Houseblend,On The Rock,Coffee,66,792000.0
+2025,9,September,55,Gula Gula,-,Snacks,63,756000.0
+2025,9,September,13,Banana Bread,Chocolate,Snacks,56,672000.0
+2025,9,September,24,Burnt Sugar,-,Snacks,52,624000.0
+2025,9,September,84,Susu Oat,-,Add on,62,620000.0
+2025,9,September,76,Nutella Meses,-,Snacks,50,600000.0
+2025,9,September,39,Donat Polos,-,Snacks,55,550000.0
+2025,9,September,45,Extra Shot,Arabica,Add on,78,546000.0
+2025,9,September,44,Extra Shot,Houseblend,Add on,65,390000.0
+2025,9,September,3,Air Mineral,-,Other,67,335000.0
+2025,9,September,87,Upgrade Beans (Arabica),-,Add on,74,296000.0

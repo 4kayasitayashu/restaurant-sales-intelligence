@@ -1,0 +1,4 @@
+Outlet,ForecastOrders,AverageDailyOrders,PeakDailyOrders,LowestDailyOrders,HighDemandDays,LowDemandDays,ForecastSharePercent,OperationalSignal,InsightType
+SHOP001,1420,101.42857142857143,107,94,0,0,51.805910251732946,Maintain strong operational capacity,Outlet Forecast
+SHOP002,479,34.214285714285715,40,30,1,0,17.475373951112733,Monitor demand and avoid overstaffing,Outlet Forecast
+SHOP003,842,60.142857142857146,65,54,0,0,30.71871579715432,Maintain normal operations,Outlet Forecast
